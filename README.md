@@ -1,2 +1,2 @@
 # Blockchain-Implementation-
-Run npm init to download node modules.
+Run npm init from terminal to download node modules.
